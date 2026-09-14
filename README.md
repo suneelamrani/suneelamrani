@@ -61,8 +61,8 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suneelamrani&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suneelamrani&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suneelamrani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suneelamrani&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="30%" />
 </p>
 
 <p align="center">
