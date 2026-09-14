@@ -6,9 +6,6 @@
   <img src="https://img.shields.io/github/followers/suneelamrani?label=Followers&style=social" alt="followers" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suneelamrani&theme=flat&column=4&margin-w=10&no-frame=true" alt="trophy" />
-</p>
 
 ### 🚀 About Me
 
@@ -59,11 +56,6 @@
 <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" />
 </p>
 
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suneelamrani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suneelamrani&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="30%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suneelamrani&theme=tokyonight&hide_border=true" width="60%" />
