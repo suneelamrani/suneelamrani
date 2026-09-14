@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=suneelamrani&theme=onedark&column=4&margin-w=10" alt="trophy" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=suneelamrani&theme=flat&column=4&margin-w=10&no-frame=true" alt="trophy" />
 </p>
 
 ### 🚀 About Me
@@ -44,6 +42,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
